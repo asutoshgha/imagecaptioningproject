@@ -1,3 +1,4 @@
+python==3.7.12 
 absl-py==1.0.0
 astor==0.8.1
 beautifulsoup4==4.10.0
