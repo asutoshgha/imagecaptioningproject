@@ -1,5 +1,5 @@
 
-# Image Captioning using CNN ,LSTM and attention
+# Image Captioning using CNN ,LSTM and Attention
 
 This is a deeplearning model which tries to summarize  an image into a text .
 
