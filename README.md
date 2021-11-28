@@ -9,7 +9,7 @@ This is a deeplearning model which tries to summarize  an image into a text .
 
 ## Installation
 
-Install my-project with pip3.
+Install this project with pip3.
 Use python version 3.7
 ```bash
   pip3 install -R requirements.txt
