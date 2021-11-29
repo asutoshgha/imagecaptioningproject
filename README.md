@@ -58,6 +58,10 @@ In this project, you will discover the BLEU score for evaluating and scoring can
 ## Authors
 
 - [@asutoshgha](https://www.github.com/asutoshgha)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
