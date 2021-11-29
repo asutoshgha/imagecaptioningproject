@@ -41,6 +41,19 @@ This is an monolithic application so a single docker image is complied on the ap
 
 link to demo-https://lucky-dahlia-333406.el.r.appspot.com/index
 
+## FAQ
+
+#### why is this project implimented in tensorflow ?
+
+Tensorflow is actively maintained by google and is very conviniant to deploy 
+on a server .It automatically switches to gpu while training if it finds one.
+
+#### what is BELU score ?
+
+BLEU, or the Bilingual Evaluation Understudy, is a score for comparing a candidate translation of text to one or more reference translations.Although developed for translation, it can be used to evaluate text generated for a suite of natural language processing tasks.
+
+In this project, you will discover the BLEU score for evaluating and scoring candidate text using the NLTK library in Python.
+
 
 ## Authors
 
