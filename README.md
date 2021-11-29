@@ -45,7 +45,7 @@ link to demo-https://lucky-dahlia-333406.el.r.appspot.com/index
 
 #### why is this project implimented in tensorflow ?
 
-Tensorflow is actively maintained by google and is very conviniant to deploy 
+Tensorflow is actively maintained by google and is very convenient to deploy 
 on a server .It automatically switches to gpu while training if it finds one.
 
 #### what is BELU score ?
