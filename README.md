@@ -28,7 +28,7 @@ you can also install docker and build an image from the docker file and run it.
 
 To deploy this project in google cloud app engine.
 First create an project in app engine.
-Install google SDK to push ptojects into your local machine
+Install google SDK to push projects into your local machine
 then run the following commands.
 ```bash
   gcloud init
